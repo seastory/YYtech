@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "예영테크(주)"
-  avatar : "/assets/images/500x300.png"
+  avatar : "/assets/images/YYT_box.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
