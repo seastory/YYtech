@@ -60,14 +60,14 @@ plugins:
 author:
   name   : "예영테크(주)"
   avatar : "/assets/images/YYT_box.png"
-  bio    : "전기, 전문소방, 통신, 자동제어 전문기업"
+  bio    : "전기, 소방, 통신, 자동제어"
   links:
-    - label: "Website"
+    - label: "https:/YYtech.net/"
       icon: "fas fa-fw fa-link"
       url: "https:/YYtech.net/"
     - label: "E-mail"
-      icon: "fas fa-fw fa-link"
-      url: "mail to:seastory7@gmail.com/"
+      icon: "mail to:seastory7@gmail.com/"
+      url: ""
     - label: "Tel: 0507-1345-8543"
       icon: "fas fa-fw fa-link"
       url: ""
@@ -77,13 +77,13 @@ author:
 
 footer:
   links:
-    - label: "서울특별시 동대문구 사가정로 278"
+    - label: "본사: 서울특별시 동대문구 사가정로 278"
       icon: "fas fa-fw fa-link"
       url: ""
-    - label: "Tel: 0507-1345-8543"
+    - label: "사업자등록번호: 411-87-01817"
       icon: "fab fa-fw fa-instagram"
       url: ""
-    - label: "Fax: 0504-425-8543"
+    - label: "대표이사: 신창목"
       icon: "fab fa-fw fa-instagram"
       url: ""
 
