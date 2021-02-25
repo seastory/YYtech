@@ -1,6 +1,6 @@
 ---
 title: "전기공사"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "Electricity"
 header:
   image: /assets/images/A_00.jpg
   teaser: assets/images/A_00.jpg
