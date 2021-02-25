@@ -1,11 +1,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "사업분야"
+  - title: "Portfolio"
     url: /portfolio/
-  - title: "사업실적"
+  - title: "posts"
     url: /posts/
- - title: "보유면허, 인증서"
+ - title: "categories"
     url: /categories/
   - # title: "Tags"
     # url: /tags/
