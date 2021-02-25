@@ -96,7 +96,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -115,12 +115,12 @@ defaults:
       
   # _portfolio
   - scope:
-      path: ""
+      path: "_portfolio"
       type: portfolio
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
 
 category_archive:
   type: liquid
