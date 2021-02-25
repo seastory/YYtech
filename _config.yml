@@ -62,9 +62,6 @@ author:
   avatar : "/assets/images/YYT_box.png"
   bio    : "Matthew 5:16"
   links:
-    - label: "http://www.YYtech.kr/"
-      icon: "fas fa-fw fa-link"
-      url: "http://www.yytech.kr/"
     - label: "seastory7@gmail.com/"
       icon: "fab fa-fw fa-twitter-square"
       url: "seastory7@gmail.com/"
