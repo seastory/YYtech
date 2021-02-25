@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "전기, 자동제어, 소방, 통신"
   avatar : "/assets/images/YYT_box.png"
-  bio    : "Matthew 5:16"
+  bio    : "Matthew 5-16"
   links:
     - label: "http://www.YYtech.kr/"
       icon: "fas fa-fw fa-link"
