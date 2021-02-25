@@ -1,6 +1,6 @@
 ---
 title: "전문소방공사"
-excerpt: "전문소방공사"
+excerpt: "Fire Protection"
 header:
   image: /assets/images/C_00.jpg
   teaser: assets/images/C_00.jpg
