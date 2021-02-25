@@ -86,6 +86,9 @@ footer:
     - label: "대표이사: 신창목"
       icon: "fab fa-fw fa-instagram"
       url: ""
+      
+algolia:
+  powered_by: false     
 
 defaults:
   # _posts
