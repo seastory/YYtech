@@ -1,6 +1,6 @@
 ---
 title: "자동제어 공사"
-excerpt: "자동제어 공사"
+excerpt: "Automation"
 header:
   image: /assets/images/B_00.jpg
   teaser: assets/images/B_00.jpg
