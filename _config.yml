@@ -66,14 +66,14 @@ author:
       icon: "fas fa-fw fa-link"
       url: "http://www.yytech.kr/"
     - label: "seastory7@gmail.com/"
-      icon: "seastory7@gmail.com/"
-      url: ""
+      icon: "fas fa-fw fa-link"
+      url: "seastory7@gmail.com/"
     - label: "Tel: 0507-1345-8543"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "http://www.yytech.kr/"
     - label: "Fax: 0504-425-8543"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "http://www.yytech.kr/"
 
 footer:
   links:
