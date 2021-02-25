@@ -1,6 +1,6 @@
 ---
 title: "자동제어 공사"
-excerpt: "Ginger Gulp design system including logo mark, website design, and branding applications."
+excerpt: "자동제어 공사"
 header:
   image: /assets/images/B_00.jpg
   teaser: assets/images/B_00.jpg
