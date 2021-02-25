@@ -57,11 +57,16 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Site Author
 author:
   name   : "예영테크(주)"
   avatar : "/assets/images/YYT_box.png"
   bio    : "Matthew 5:16"
+  location : ""
   links:
+    - label: "YYtech Inc."
+      icon: "fas fa-fw fa-link"
+      url: "http://YYtech.kr"
     - label: "seastory7@gmail.com/"
       icon: "fab fa-fw fa-twitter-square"
       url: "seastory7@gmail.com/"
