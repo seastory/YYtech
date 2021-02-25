@@ -88,7 +88,13 @@ footer:
       url: ""
       
 algolia:
-  powered_by: false     
+  powered_by: false   
+ 
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/  
 
 defaults:
   # _posts
@@ -109,6 +115,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
 category_archive:
   type: liquid
