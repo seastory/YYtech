@@ -6,9 +6,9 @@ header:
   teaser: assets/images/A_00.jpg
 sidebar:
   - title: "전기"
-    image: http://placehold.it/350x250
+    image: 
     image_alt: "logo"
-    text: "전기"
+    text: "Electricity"
   - title: "전기"
     text: "공장, 플렌트, 빌딩, 변전실, 내외선"
 gallery:
