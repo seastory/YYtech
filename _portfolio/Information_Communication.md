@@ -1,16 +1,16 @@
 ---
 title: "정보통신"
-excerpt: " Information_Communication"
+excerpt: "Information_Communication"
 header:
   image: /assets/images/D_00.jpg
   teaser: /assets/images/D_00.jpg
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
+  - title: "정보통신"
+    image: 
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: ""
+  - title: "Information_Communication"
+    text: ""
 gallery:
   - url: /assets/images/D_01.jpg
     image_path: assets/images/D_01.jpg
@@ -22,6 +22,3 @@ gallery:
     image_path: assets/images/D_03.jpg
     alt: "placeholder image 3"
 ---
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
