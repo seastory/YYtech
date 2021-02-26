@@ -13,7 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-<meta name="naver-site-verification" content="b250b1eb1134d4dc258e94f1cb7852e37edacad0" />
 
 title: 예영테크 주식회사(YYtech Inc.)
 email: seastory7@gmail.com
