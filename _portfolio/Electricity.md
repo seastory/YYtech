@@ -1,16 +1,16 @@
 ---
-title: "전기공사"
+title: "전기"
 excerpt: "Electricity"
 header:
   image: /assets/images/A_00.jpg
   teaser: assets/images/A_00.jpg
 sidebar:
-  - title: "전기공사"
+  - title: "전기"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "전기공사"
-  - title: "전기공사"
-    text: "공장, 플렌트 전기공사 빌딩, 건물 전기공사, 변전실 전기공사, 내외선 공사, 주택공사"
+    text: "전기"
+  - title: "전기"
+    text: "공장, 플렌트, 빌딩, 변전실, 내외선"
 gallery:
   - url: /assets/images/A_01.jpg
     image_path: assets/images/A_01.jpg
