@@ -3,26 +3,24 @@ title: "자동제어"
 excerpt: "Automation"
 header:
   image: /assets/images/B_00.jpg
-  teaser: assets/images/B_00.jpg
+  teaser: /assets/images/B_00.jpg
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
+  - title: "자동제어"
+    image:
+    image_alt: ""
+    text: ""
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "PLC, HMI, SCADA, Smart Things"
 gallery:
   - url: /assets/images/B_01.jpg
-    image_path: assets/images/B_01.jpg
-    alt: "자동제어 공사 1"
+    image_path: /assets/images/B_01.jpg
+    alt: "자동제어 1"
   - url: /assets/images/B_02.jpg
-    image_path: assets/images/B_02.jpg
-    alt: "자동제어 공사 2"
+    image_path: /assets/images/B_02.jpg
+    alt: "자동제어 2"
   - url: /assets/images/B_03.jpg
-    image_path: assets/images/B_03.jpg
-    alt: "자동제어 공사 3"
+    image_path: /assets/images/B_03.jpg
+    alt: "자동제어 3"
 ---
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 
