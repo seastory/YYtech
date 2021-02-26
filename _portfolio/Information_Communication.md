@@ -1,5 +1,5 @@
 ---
-title: "정보통신공사"
+title: "정보통신"
 excerpt: " Information_Communication"
 header:
   image: /assets/images/D_00.jpg
