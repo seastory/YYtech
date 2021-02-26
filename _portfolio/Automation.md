@@ -9,7 +9,7 @@ sidebar:
     image:
     image_alt: ""
     text: ""
-  - title: "Responsibilities"
+  - title: "Automation"
     text: "PLC, HMI, SCADA, Smart Things"
 gallery:
   - url: /assets/images/B_01.jpg
