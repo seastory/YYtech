@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 예영테크 주식회사(YYtech Inc.)
-email: seastory7@gmail.com
+email: YYtech1@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -68,30 +68,30 @@ author:
     - label: "YYtech Inc."
       icon: "fas fa-fw fa-link"
       url: "http://YYtech.kr"
-    - label: "seastory7@gmail.com/"
+    - label: "YYtech1@naver.com"
       icon: "fab fa-fw fa-twitter-square"
-      url: "seastory7@gmail.com/"
+      url: "YYtech1@naver.com"
     - label: "Tel: 0507-1345-8543"
       icon: "fab fa-fw fa-github"
-      url: "http://www.yytech.kr/"
+      url: "http://www.YYtech.kr"
     - label: "Fax: 0504-425-8543"
       icon: "fab fa-fw fa-instagram"
-      url: "http://www.yytech.kr/"
+      url: "http://www.YYtech.kr"
 
 footer:
   links:
     - label: "본사: 서울특별시 동대문구 사가정로 278"
       icon: "fas fa-fw fa-link"
       url: ""
-    - label: "seastory7@gmail.com/"
+    - label: "YYtech1@naver.com"
       icon: "fab fa-fw fa-twitter-square"
-      url: "seastory7@gmail.com/"
+      url: "YYtech1@naver.com"
     - label: "Tel: 0507-1345-8543"
       icon: "fab fa-fw fa-github"
-      url: "http://www.yytech.kr/"
+      url: "http://www.YYtech.kr/"
     - label: "Fax: 0504-425-8543"
       icon: "fab fa-fw fa-instagram"
-      url: "http://www.yytech.kr/"
+      url: "http://www.YYtech.kr/"
     - label: "사업자등록번호: 411-87-01817"
       icon: "fab fa-fw fa-instagram"
       url: ""
