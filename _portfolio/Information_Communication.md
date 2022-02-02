@@ -1,11 +1,11 @@
 ---
-title: "정보통신"
+title: "신재생에너지"
 excerpt: "Information_Communication"
 header:
   image: /assets/images/D_00.jpg
   teaser: /assets/images/D_00.jpg
 sidebar:
-  - title: "정보통신"
+  - title: "신재생에너지"
     image: 
     image_alt: "logo"
     text: ""
