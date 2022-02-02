@@ -1,11 +1,11 @@
 ---
-title: "신재생에너지"
+title: "탄소중립"
 excerpt: "Information_Communication"
 header:
   image: /assets/images/D_00.jpg
   teaser: /assets/images/D_00.jpg
 sidebar:
-  - title: "신재생에너지"
+  - title: "탄소중립"
     image: 
     image_alt: "logo"
     text: ""
