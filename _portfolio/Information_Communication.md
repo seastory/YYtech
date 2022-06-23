@@ -1,11 +1,11 @@
 ---
-title: "탄소중립"
+title: "Carbon-Neutral"
 excerpt: "Information_Communication"
 header:
   image: /assets/images/D_00.jpg
   teaser: /assets/images/D_00.jpg
 sidebar:
-  - title: "탄소중립"
+  - title: "Carbon-Neutral"
     image: 
     image_alt: "logo"
     text: ""
