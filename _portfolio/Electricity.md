@@ -1,16 +1,16 @@
 ---
-title: "Electricity"
-excerpt: "Electricity"
+title: "Carbon-Neutral"
+excerpt: "Carbon-Neutral"
 header:
   image: /assets/images/A_00.jpg
   teaser: assets/images/A_00.jpg
 sidebar:
-  - title: "Electricity"
+  - title: "Carbon-Neutral"
     image: 
     image_alt: "logo"
-    text: "Electricity"
-  - title: "Electricity"
-    text: "Electricity"
+    text: "Carbon-Neutral"
+  - title: "Carbon-Neutral"
+    text: "Carbon-Neutral"
 gallery:
   - url: /assets/images/A_01.jpg
     image_path: assets/images/A_01.jpg
