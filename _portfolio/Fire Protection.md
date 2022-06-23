@@ -1,15 +1,15 @@
 ---
-title: "전문소방"
+title: "Fire Protection"
 excerpt: "Fire Protection"
 header:
   image: /assets/images/C_00.jpg
   teaser: assets/images/C_00.jpg
 sidebar:
-  - title: "전문소방"
+  - title: "Fire Protection"
     image: http://placehold.it/350x250
     image_alt: "logo"
     text: ""
-  - title: "전문소방"
+  - title: "Fire Protection"
     text: ""
 gallery:
   - url: /assets/images/C_01.jpg
