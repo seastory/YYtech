@@ -1,11 +1,11 @@
 ---
-title: "Carbon-Neutral"
+title: "Information_Communication"
 excerpt: "Information_Communication"
 header:
   image: /assets/images/D_00.jpg
   teaser: /assets/images/D_00.jpg
 sidebar:
-  - title: "Carbon-Neutral"
+  - title: "Information_Communication"
     image: 
     image_alt: "logo"
     text: ""
