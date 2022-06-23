@@ -1,5 +1,5 @@
 ---
-title: "전기"
+title: "Electricity"
 excerpt: "Electricity"
 header:
   image: /assets/images/A_00.jpg
@@ -9,8 +9,8 @@ sidebar:
     image: 
     image_alt: "logo"
     text: "Electricity"
-  - title: "전기"
-    text: "공장, 플렌트, 빌딩, 변전실, 내외선"
+  - title: "Electricity"
+    text: "Electricity"
 gallery:
   - url: /assets/images/A_01.jpg
     image_path: assets/images/A_01.jpg
