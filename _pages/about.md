@@ -1,11 +1,9 @@
 ---
 permalink: /about/
-title: "기술 그 이상의 가치를 만드는 선두 기업으로 도약합니다"
+title: "We leap forward as a leading company that creates value beyond technology."
 ---
 
-저희 예영테크는 임직원 모두 고객감동을 최우선으로 업계 최고의 기술력을 바탕으로 21세기 무한 경쟁 시대에 앞장서 왔습니다. 당사는 지속적인 연구 개발과 투자로 축적된 Know-How로 정보화시대의 변화와 발전에 발맞추고 고객감동의 실현과 사회 공헌을 위하여 전 임직원이 최선을 다할 것을 약속드립니다.
-
-예영테크(주) 대표이사
+All of our executives and employees put customer satisfaction first, and based on the industry's best technology, we have been taking the lead in the era of unlimited competition in the 21st century. Our company promises to keep pace with the changes and development of the information age with know-how accumulated through continuous R&D and investment, and promises that all executives and staff will do their best to satisfy customers and contribute to society.
 
 <!-- * 카카오맵 - 지도퍼가기 -->
 <!-- 1. 지도 노드 -->
