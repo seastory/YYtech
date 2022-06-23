@@ -5,7 +5,7 @@ header:
   image: /assets/images/A_00.jpg
   teaser: assets/images/A_00.jpg
 sidebar:
-  - title: "전기"
+  - title: "Electricity"
     image: 
     image_alt: "logo"
     text: "Electricity"
