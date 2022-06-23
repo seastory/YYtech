@@ -1,11 +1,11 @@
 ---
-title: "자동제어"
+title: "Automation"
 excerpt: "Automation"
 header:
   image: /assets/images/B_00.jpg
   teaser: /assets/images/B_00.jpg
 sidebar:
-  - title: "자동제어"
+  - title: "Automation"
     image:
     image_alt: ""
     text: ""
