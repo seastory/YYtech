@@ -63,7 +63,7 @@ author:
   name   : "예영테크(주)"
   avatar : "/assets/images/YYT_box.png"
   bio    : "Matthew 5:16"
-  location : "서울특별시 동대문구 사가정로 278 원영빌딩"
+  location : "278, Sagajeong-ro, Dongdaemun-gu, Seoul"
   links:
     - label: "YYtech Inc."
       icon: "fas fa-fw fa-link"
@@ -80,7 +80,7 @@ author:
 
 footer:
   links:
-    - label: "본사: 서울특별시 동대문구 사가정로 278 원영빌딩"
+    - label: "278, Sagajeong-ro, Dongdaemun-gu, Seoul"
       icon: "fas fa-fw fa-link"
       url: ""
     - label: "YYtech1@naver.com"
@@ -92,7 +92,7 @@ footer:
     - label: "Fax: 0504-425-8543"
       icon: "fab fa-fw fa-instagram"
       url: "http://www.YYtech.kr/"
-    - label: "사업자등록번호: 411-87-01817"
+    - label: "Business Registration Number: 411-87-01817"
       icon: "fab fa-fw fa-instagram"
       url: ""
     - label: ""
