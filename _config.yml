@@ -60,12 +60,12 @@ plugins:
 
 # Site Author
 author:
-  name   : "예영테크(주)"
+  name   : "YYtech"
   avatar : "/assets/images/YYT_box.png"
   bio    : "Matthew 5:16"
   location : "278, Sagajeong-ro, Dongdaemun-gu, Seoul"
   links:
-    - label: "YYtech Inc."
+    - label: ""
       icon: "fas fa-fw fa-link"
       url: "http://YYtech.kr"
     - label: ""
